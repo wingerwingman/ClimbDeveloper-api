@@ -9,7 +9,6 @@ gem 'rails', '~> 6.0.3', '>= 6.0.3.4'
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
-gem 'rails-api'
 gem 'active_model_serializers'
 gem 'devise'
 gem 'sdoc'
