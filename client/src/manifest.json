@@ -1,0 +1,55 @@
+{
+  "App.js": "/src/js/App-210f4ae988e45fe090db.js",
+  "App.js.map": "/src/js/App-210f4ae988e45fe090db.js.map",
+  "entrypoints": {
+    "App": {
+      "js": [
+        "/src/js/App-210f4ae988e45fe090db.js"
+      ],
+      "js.map": [
+        "/src/js/App-210f4ae988e45fe090db.js.map"
+      ]
+    },
+    "index": {
+      "js": [
+        "/src/js/index-d9b536f138cea811f3ea.js"
+      ],
+      "js.map": [
+        "/src/js/index-d9b536f138cea811f3ea.js.map"
+      ]
+    },
+    "logo": {
+      "js": [
+        "/src/js/logo-8bf4a1c731fef4718582.js"
+      ],
+      "js.map": [
+        "/src/js/logo-8bf4a1c731fef4718582.js.map"
+      ]
+    },
+    "reportWebVitals": {
+      "js": [
+        "/src/js/reportWebVitals-0ab6c18fadfe942fc299.js"
+      ],
+      "js.map": [
+        "/src/js/reportWebVitals-0ab6c18fadfe942fc299.js.map"
+      ]
+    },
+    "setupTests": {
+      "js": [
+        "/src/js/setupTests-96b800774eb266e2f919.js"
+      ],
+      "js.map": [
+        "/src/js/setupTests-96b800774eb266e2f919.js.map"
+      ]
+    }
+  },
+  "index.js": "/src/js/index-d9b536f138cea811f3ea.js",
+  "index.js.map": "/src/js/index-d9b536f138cea811f3ea.js.map",
+  "logo.js": "/src/js/logo-8bf4a1c731fef4718582.js",
+  "logo.js.map": "/src/js/logo-8bf4a1c731fef4718582.js.map",
+  "media/src/logo.svg": "/src/media/src/logo-6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+  "reportWebVitals.js": "/src/js/reportWebVitals-0ab6c18fadfe942fc299.js",
+  "reportWebVitals.js.map": "/src/js/reportWebVitals-0ab6c18fadfe942fc299.js.map",
+  "setupTests.js": "/src/js/setupTests-96b800774eb266e2f919.js",
+  "setupTests.js.map": "/src/js/setupTests-96b800774eb266e2f919.js.map"
+}
